@@ -58,7 +58,28 @@
 - Результаты сохраняются в виде файлов с расширением _sobel.jpg.
 - Для работы программы требуются библиотеки opencv-python, matplotlib, numpy и seaborn.
 
-  ## Выводы по работе
+## Результаты
+
+#### Handmade Sobel
+- Исходное изображение
+- Комбинированный результат (X+Y)
+
+![Оригинал изображения](https://github.com/user-attachments/assets/d0ea86bc-4dc9-4632-8a92-a6631292e025)
+![Комбинированный результат](https://github.com/user-attachments/assets/88b40f3b-7b11-49d4-ad4e-41648904249d)
+
+
+#### OpenCV
+- Исходное изображение
+- Результат фильтра Собеля по направлению X
+- Результат фильтра Собеля по направлению Y
+
+![Оригинал изображения](https://github.com/user-attachments/assets/15c2b80f-e2fb-43be-bd51-648263e970d8)
+
+![Результат фильтра Собеля по X (OpenCV)](https://github.com/user-attachments/assets/dc8b8057-4f39-404f-92ff-e9a2254e5085)
+
+![Результат фильтра Собеля по Y (OpenCV)](https://github.com/user-attachments/assets/e18a8f34-48ef-4fdc-ae80-f76fcece9017)
+
+## Выводы по работе
 
 В ходе разработки и тестирования программы были получены следующие результаты:
 
