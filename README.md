@@ -57,6 +57,7 @@ SIFT (Scale-Invariant Feature Transform) — это алгоритм, испол
 
 ## Результаты
 ### Результаты работы на прямых изображениях:
+#### OpenCV:
 ![image](https://github.com/user-attachments/assets/029e1f6a-2b98-4035-b6cc-8fb3de090669)
 ![image](https://github.com/user-attachments/assets/66ec4aa2-3d3f-4520-b80c-932417025170)
 ![image](https://github.com/user-attachments/assets/899e7120-885b-40ea-b006-8b80e2a7870d)
@@ -64,7 +65,11 @@ SIFT (Scale-Invariant Feature Transform) — это алгоритм, испол
 #### Ручной метод sqdiff:
 ![image](https://github.com/user-attachments/assets/95a310dc-d81a-4094-986b-6973454e20df)
 
-
+### Результаты на косых изображениях:
+#### Template Matching
+![image](https://github.com/user-attachments/assets/323c4386-f544-4106-91f5-d8933a5b2c31)
+#### SIFT
+![image](https://github.com/user-attachments/assets/540562e0-2ce9-4a9d-b571-4ac7369fcf66)
 ## Выводы по работе
 
 ## Заключение
