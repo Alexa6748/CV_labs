@@ -56,8 +56,8 @@ SIFT (Scale-Invariant Feature Transform) — это алгоритм, испол
 
 ## Результаты
 ### Результаты работы на прямых изображениях:
-TM_CCOEFF - метод кросс-корреляции <br>
 ![image](https://github.com/user-attachments/assets/029e1f6a-2b98-4035-b6cc-8fb3de090669)
+![image](https://github.com/user-attachments/assets/66ec4aa2-3d3f-4520-b80c-932417025170)
 ![image](https://github.com/user-attachments/assets/899e7120-885b-40ea-b006-8b80e2a7870d)
 
 
