@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TZgNlrJXEZLWR06tHC73QcgTo3sFB3cR?usp=sharing)
 ## Теория
 ### Template matching
 Template matching - метод цифровой обработки изображений для поиска небольших частей изображения, соответствующих шаблону.
