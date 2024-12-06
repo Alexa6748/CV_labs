@@ -9,8 +9,8 @@ TM сопоставляет части изображения с шаблоно�
 Формула для ccorr:
  ![image](https://github.com/user-attachments/assets/36610db5-115a-445c-9e57-6d43199aa530)
 
-Формула для ccoeff:
-  ![image](https://github.com/user-attachments/assets/17aa79ce-f2c3-4f8d-add4-aa0fc8651a13)
+Формула для ccoeff:<br>
+  ![image](https://github.com/user-attachments/assets/17aa79ce-f2c3-4f8d-add4-aa0fc8651a13) ![image](https://github.com/user-attachments/assets/2899592a-578e-4a53-81c9-f0b56db8bed1)
 
 , где T – шаблон для поиска, I – оригинальное изображение. Каждый из 3 методов имеет нормализованный вариант.
 <br>
